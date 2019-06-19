@@ -1,18 +1,21 @@
 ---
 authors:
 - admin
-bio: My research interests include neuroscience, machine learning and the genetic risks of dementia.
+bio: My research interests include 
 education:
   courses:
-  - course: BSc in Neuroscience & Behavior
-    institution: Univeristy of Notre Dame
-    year: 2014 - 2018
-email: "dacri@iu.edu"
+  - course: BSc in Chemistry
+    institution: Purdue University-Indianapolis
+    year: 2010 - 2015
+  - course: BSc in Biology
+    institution: Purdue University-Indianapolis
+    year: 2010-2015
+email: "tylmccra@iu.edu"
 interests:
-- Alzheimer's Disease
-- QTL Mapping
-- snRNAseq
-name: Dom J. Acri
+- Neurodegeneration 
+- Neuroinflammation/immunology
+- Tau seeding
+name: Tyler J. McCray
 organizations:
 - name: Indiana University School of Medicine
   url: "https://medicine.iu.edu/research/centers-institutes/stark-neurosciences/"
@@ -20,25 +23,22 @@ role: PhD Student in Medical Neuroscience
 social:
 - icon: paper-plane
   icon_pack: fas
-  link: mailto:dacri@iu.edu
-- icon: twitter
+  link: mailto:tylmccra@iu.edu
+- icon: researchgate
   icon_pack: fab
-  link: https://twitter.com/domjacri
+  link: https://www.researchgate.net/profile/Tyler_Mccray
 - icon: github
   icon_pack: fab
-  link: https://github.com/domjacri
+  link: https://github.com/tylermccray
 - icon: mendeley
   icon_pack: fab
-  link: https://www.mendeley.com/profiles/dom-acri/
+  link: https://www.mendeley.com/profiles/tyler-mccray/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/dominicjacri/
+  link: https://www.linkedin.com/in/tyler-mccray
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-'Problems that appear small are large problems that are not understood'-_Santiago Ramon y Cajal_
-
-Dom Acri was born and raised in Harrisburg, PA. After graduating from the University of Notre Dame with a bachelors in neuroscience & behavior, Dom decided he wanted to explore the worlds of big data and medical research. By combining basic research, human data, and next generation molecular tools, he spends his days (_and sometimes nights_) exploring the genetics of the brain.
