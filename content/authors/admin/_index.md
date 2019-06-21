@@ -30,7 +30,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/tylermccray
-- icon: fa-mendeley
+- icon: mendeley
   icon_pack: fab
   link: https://www.mendeley.com/profiles/tyler-mccray/
 - icon: linkedin
