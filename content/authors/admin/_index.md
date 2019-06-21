@@ -1,13 +1,13 @@
 ---
 authors:
 - admin
-bio: My research interests include 
+bio: My research interests include the brain, the peripheral immune system, and the interface between them in context-dependent states.
 education:
   courses:
-  - course: BSc in Chemistry
+  - course: B.Sc. in Chemistry
     institution: Purdue University-Indianapolis
     year: 2010 - 2015
-  - course: BSc in Biology
+  - course: B.Sc. in Biology
     institution: Purdue University-Indianapolis
     year: 2010-2015
 email: "tylmccra@iu.edu"
@@ -25,12 +25,12 @@ social:
   icon_pack: fas
   link: mailto:tylmccra@iu.edu
 - icon: researchgate
-  icon_pack: fab
+  icon_pack: ai
   link: https://www.researchgate.net/profile/Tyler_Mccray
 - icon: github
   icon_pack: fab
   link: https://github.com/tylermccray
-- icon: mendeley
+- icon: fa-mendeley
   icon_pack: fab
   link: https://www.mendeley.com/profiles/tyler-mccray/
 - icon: linkedin
