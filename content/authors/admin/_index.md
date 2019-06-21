@@ -12,10 +12,10 @@ education:
     year: 2010-2015
 email: "tylmccra@iu.edu"
 interests:
-- Neurodegeneration 
+- Neurodegeneration
 - Neuroinflammation
 - Neuroimmunology
-- Tau seeding
+- Tau Seeding & Propagation
 name: Tyler J. McCray
 organizations:
 - name: Indiana University School of Medicine
