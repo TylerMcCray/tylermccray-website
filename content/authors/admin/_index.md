@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I work at the intersection of the brain and peripheral immunity.
+bio: I work at the intersection of the brain, tau, and peripheral immunity.
 education:
   courses:
   - course: B.Sc. in Chemistry
@@ -13,8 +13,7 @@ education:
 email: "tylmccra@iu.edu"
 interests:
 - Neurodegeneration
-- Neuroinflammation
-- Neuroimmunology
+- Neuroinflammation/Neuroimmunology
 - Tau Seeding & Propagation
 name: Tyler J. McCray
 organizations:
