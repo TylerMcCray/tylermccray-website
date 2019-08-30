@@ -9,45 +9,40 @@ title = "Things I Like"
 subtitle = "A Little More About Me"
 
 # Showcase personal skills or business features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
+#
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
+
 [[feature]]
-  icon = "r-project"
+  icon = "hiking"
   icon_pack = "fab"
-  name = "QTL Mapping"
-  description = "r/qtl2"
-  
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "scRNAseq"
-  description = "scanpy"
-  
+  name = "Hiking"
+  description = "Nature appreciation"
+
 [[feature]]
   icon = "microscope"
   icon_pack = "fas"
-  name = "Lab Work"
-  description = "cell & mice"  
-  
+  name = "Science"
+  description = "Everything under the sun and beyond"  
+
 [[feature]]
   icon = "book-open"
   icon_pack = "fas"
-  name = "#SciComm"
-  description = "podcast & twitter"
+  name = "Reading and Writing"
+  description = "Philosophical books & poetic writing"
 
 [[feature]]
   icon = "gamepad"
   icon_pack = "fas"
   name = "Gaming"
-  description = "ps4"
+  description = "console"
 
 [[feature]]
-  icon = "baseball-ball"
+  icon = "music"
   icon_pack = "fas"
-  name = "MLB Stat Geek"
-  description = "Go O's!"
+  name = "Music"
+  description = "Playing, listening, & attending"
 
 +++
