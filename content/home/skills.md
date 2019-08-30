@@ -17,7 +17,7 @@ subtitle = "A Little More About Me"
 
 [[feature]]
   icon = "hiking"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Hiking"
   description = "Nature appreciation"
 
