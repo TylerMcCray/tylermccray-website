@@ -88,8 +88,8 @@ appointment_url = "https://calendly.com"
 #   3: OpenStreetMap (Mapbox)
 map = 1
 map_api_key = ""
-latitude = "39.787940"
-longitude = "-86.163720"
+latitude = "39.787097"
+longitude = "-86.164047"
 zoom = 15
 
 ############################
