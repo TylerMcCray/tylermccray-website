@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include the brain, the peripheral immune system, and the interface between them in context-dependent states.
+bio: I work at the intersection of the brain and peripheral immunity.
 education:
   courses:
   - course: B.Sc. in Chemistry
