@@ -30,5 +30,5 @@
 
 [[main]]
    name = "Download CV"
-   url = "files/cv.pdf"
+   url = "files/McCray CV.pdf"
    weight = 70
