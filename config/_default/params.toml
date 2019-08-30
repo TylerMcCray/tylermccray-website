@@ -15,7 +15,7 @@ font = "classic"
 description = "Tyler J. McCray"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-#sharing_image = "icon.png"
+sharing_image = "icon.png"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 #twitter = "domjacri"
@@ -51,7 +51,7 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "tylmccra@iu.edu"
-phone = "717-903-5402"
+phone = "(317)-850-0694"
 address = "320 W. 15th Street, NB Bldg Rm 208, Indianapolis, IN 46202"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
